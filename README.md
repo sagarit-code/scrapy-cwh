@@ -33,5 +33,3 @@ json
 Why I Built This
 I wanted to learn real-world web scraping and understand how spiders, selectors, item pipelines, and Scrapy’s engine work — so I scraped CodeWithHarry’s course catalog as a practice project.
 
-
-If you want a more “founder-vibes” version or more detailed docs, just say the word.
